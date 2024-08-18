@@ -7,9 +7,9 @@ Functions
 https://www.metric-conversions.org/uk/tiempieraturi/farienghieita-v-tsielsiia.htm
 
 Зробити 2 списки розмірів взуття в європейському і американському форматах. 
-За допомогою функції zip поєднати ці два списка ( [..., (37, 6.5), ...]. 
+За допомогою функції zip поєднати ці два списка ( [..., (37, 6.5), ...]). 
 За допомогою функцій filter написати два вирази, які по розміру українському повертають розмір US і навпаки 
-( us_size = next(filter(lambda x:......), ukr_size = next(filter(lambda x:....) )
+( us_size = next(filter(lambda x:......)), ukr_size = next(filter(lambda x:....)) )
 
 
 ---- English ------------
@@ -19,6 +19,6 @@ Write functions that convert the temperature from the Celsius scale to the Fahre
 https://www.metric-conversions.org/uk/tiempieraturi/farienghieita-v-tsielsiia.htm
 
 Create 2 lists of shoe sizes in European and American formats. 
-Use the zip function to combine these two lists ( [..., (37, 6.5), ...]. 
+Use the zip function to combine these two lists ([..., (37, 6.5), ...]). 
 Using the filter functions, write two expressions that return the US size for the Ukrainian size and vice versa 
-( us_size = next(filter(lambda x:......), ukr_size = next(filter(lambda x:....) )
+( us_size = next(filter(lambda x:......)), ukr_size = next(filter(lambda x:....)) )
